@@ -1,0 +1,12 @@
+{
+    "network": "Check your network connection and try again.",
+    "password": "You can reset your password on the login page.",
+    "error": "Please provide the exact error message you are seeing.",
+    "install": "Follow the installation instructions in the documentation.",
+    "upgrade": "Visit our website's upgrade section for detailed instructions.",
+    "payment": "Check your payment method and account balance.",
+    "login": "Verify your username and password.  If you've forgotten them, use the 'Forgot Password' link.",
+    "slow": "Close unnecessary applications and check your internet speed.",
+    "crash": "Restart the application. If the problem persists, check the application logs.",
+    "printer": "Ensure your printer is connected and the drivers are up to date."
+}

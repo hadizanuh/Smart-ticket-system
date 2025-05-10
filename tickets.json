@@ -1,0 +1,42 @@
+[
+    {
+        "id": "19a48ebe",
+        "name": "hadiza",
+        "message": "login",
+        "team": "Tech Support",
+        "status": "open",
+        "created": "2025-05-07 22:34:53"
+    },
+    {
+        "id": "a6a6f81c",
+        "name": "mahir",
+        "message": "refund",
+        "team": "Customer Service",
+        "status": "open",
+        "created": "2025-05-07 22:37:04"
+    },
+    {
+        "id": "bc7f0bc3",
+        "name": "Muhsina",
+        "message": "billing",
+        "team": "Finance Team",
+        "status": "open",
+        "created": "2025-05-07 22:45:32"
+    },
+    {
+        "id": "d82506ca",
+        "name": "Zainab",
+        "message": "login",
+        "team": "Tech Support",
+        "status": "open",
+        "created": "2025-05-07 22:46:04"
+    },
+    {
+        "id": "9959004a",
+        "name": "Enemaduku",
+        "message": "login",
+        "team": "Tech Support",
+        "status": "open",
+        "created": "2025-05-07 23:31:07"
+    }
+]
